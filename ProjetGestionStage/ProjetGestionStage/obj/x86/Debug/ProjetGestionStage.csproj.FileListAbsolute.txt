@@ -1,0 +1,14 @@
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.Properties.Resources.resources
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.csproj.GenerateResource.Cache
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\bin\Debug\ProjetGestionStage.exe
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\bin\Debug\ProjetGestionStage.pdb
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.exe
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.pdb
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\bin\Debug\MySql.Data.dll
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.csprojResolveAssemblyReference.cache
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.Form1.resources
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.Menu.resources
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.FormCreerEntreprise.resources
+C:\Users\Cyril\Desktop\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.FormSaisirOffre.resources
+C:\Users\Sébastien\Documents\Projet Gestion de Stage\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.exe
+C:\Users\Sébastien\Documents\Projet Gestion de Stage\ProjetGestionStage\ProjetGestionStage\obj\x86\Debug\ProjetGestionStage.pdb
